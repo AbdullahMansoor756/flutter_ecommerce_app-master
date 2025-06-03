@@ -1,27 +1,9 @@
 # Flutter E-commerce App
 
 🚀 A Flutter UI application for online shopping.
-
-The design of this project was inspired by [Toma](https://dribbble.com/WastingMyTime) from [Marvie iOS App UI Kit](https://dribbble.com/shots/10904459-Marvie-iOS-App-UI-Kit-Dark-Theme).
-
-This project relied on this [Flutter Getx Template](https://github.com/EmadBeltaje/flutter_getx_template) made by [Emad Beltaje](https://github.com/EmadBeltaje).
-
-## Demo of the application 🎥
-![Flutter E-commerce App Demo](https://github.com/AbdQader/ecommerce_app/assets/64075836/92ab2771-f821-4583-80c1-fc1b2183b503)
-
 ---
 
 ## Screenshots of the application 📷
-
-### Home 🏠 & Favorites ❤️ Screens
-
-![Home&Favorites](https://github.com/AbdQader/ecommerce_app/assets/64075836/6a3162b0-c345-46ef-89f1-206ec6919587)
-
----
-### Cart 🛒 & Product Details ℹ️ Screens
-
-![Cart&ProductDetails](https://github.com/AbdQader/ecommerce_app/assets/64075836/11026f80-7cb9-4c08-be88-153594481083)
-
 ---
 ### Notifications 🔔 & Settings ⚙️ Screens
 
@@ -55,8 +37,3 @@ The Flutter eCommerce UI is a visually captivating and fully functional User Int
 - Toggle app theme to dark theme.
 
 ---
-
-## Don't forget to :star: the repository.
-
-## Support ❤️
-For support, you can contact me at this [Email](mailto:abd8alqader@gmail.com) or at [Facebook](https://www.facebook.com/aasharef/).
