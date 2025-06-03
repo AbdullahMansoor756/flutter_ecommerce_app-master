@@ -2,6 +2,8 @@
 
 🚀 A Flutter UI application for online shopping.
 ---
+Demo of Project Video
+https://github.com/user-attachments/assets/6b92302a-ce7d-481e-aae5-5cc5d3483efe
 
 ## Screenshots of the application 📷
 ---
